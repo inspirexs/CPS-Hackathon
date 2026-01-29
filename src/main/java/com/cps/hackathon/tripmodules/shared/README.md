@@ -1,0 +1,1 @@
+# trip-shared module
